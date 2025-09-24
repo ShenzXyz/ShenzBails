@@ -164,7 +164,7 @@ declare namespace imup {
         message: string,
         orderTitle: string,
         totalAmount1000?: string | number,
-        totalCurrencyCode: string
+        totalCurrencyCode?: string
     }
  
     interface MessageContent {
