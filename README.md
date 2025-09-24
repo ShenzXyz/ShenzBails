@@ -21,8 +21,8 @@ const {
 ---
 
 ## Thanks To
--Kiuur\n
--Yuukey\n
--Teddy\n
--Erlangga\n
--Rxhl\n
+-Kiuur
+-Yuukey
+-Teddy
+-Erlangga
+-Rxhl
