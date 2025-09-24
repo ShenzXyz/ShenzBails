@@ -19,3 +19,13 @@ const {
 ```
 
 ---
+
+## Thanks To
+-Kiuur
+-Yuukey
+-Teddy
+-Erlangga
+-Rxhl
+```
+
+---
