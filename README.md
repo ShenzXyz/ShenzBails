@@ -37,7 +37,7 @@ Tambahkan dependensi ini di `package.json`:
 "dependencies": {
   "@whiskeysockets/baileys": "github:ShenaXyz/ShenzBails"
 }
-
+```
 ---
 
 ## Thanks To
