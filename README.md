@@ -1,6 +1,6 @@
 # Modified Whatsapp-API
 <p align='center'>
-  <img src="https://files.catbox.moe/b4vyzh.jpg" width="300" alt="Shenz Bails Logo" />
+  <img src="https://files.catbox.moe/b4vyzh.jpg" width="172" alt="Shenz Bails Logo" />
 </p>
 
 ---
