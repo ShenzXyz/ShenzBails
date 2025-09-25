@@ -1,7 +1,11 @@
 # Modified Whatsapp-API
 <p align='center'>
-  <img src="https://files.catbox.moe/b4vyzh.jpg" width="172">
+  <img src="https://files.catbox.moe/b4vyzh.jpg" width="300" alt="Shenz Bails Logo" />
 </p>
+
+---
+
+**ShenzBails** adalah versi modifikasi dari [WhiskeySockets/Baileys](https://github.com/WhiskeySockets/Baileys), dirancang khusus untuk para developer bot WhatsApp di tahun 2025. Fokus utama versi ini adalah kestabilan pairing code, session auto-recovery, dan fitur tambahan eksklusif yang tidak tersedia di versi original.
 
 ---
 
@@ -20,7 +24,7 @@ const {
 
 ---
 
-## Thanks To
+## Thanks For
 -Kiuur
 -Yuukey
 -Teddy
