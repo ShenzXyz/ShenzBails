@@ -1,4 +1,4 @@
-# Modified Whatsapp-API
+# Modified WhatsApp Baileys
 <p align='center'>
   <img src="https://files.catbox.moe/b4vyzh.jpg" width="172" alt="Shenz Bails Logo" />
 </p>
