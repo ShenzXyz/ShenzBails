@@ -40,7 +40,7 @@ Tambahkan dependensi ini di `package.json`:
 ```
 ---
 
-## Thanks To
+## 💫 Thanks To
 - Kiuur
 - Yuukey
 - Teddy
