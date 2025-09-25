@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <b>Enhanced &amp; Stable Baileys Fork for WhatsApp Bots – 2025 Edition</b><br/>
+  <b>Enhanced &amp; Stable Baileys for WhatsApp Bots – 2025 Edition</b><br/>
 </p>
 
 ---
