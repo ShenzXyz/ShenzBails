@@ -1,8 +1,7 @@
+<h1 align="center">ShenzBails</h1>
 <p align="center">
   <img src="https://files.catbox.moe/b4vyzh.jpg" width="180" alt="Shenz Bails Logo"/>
 </p>
-
-<h1 align="center">ShenzBails</h1>
 
 <p align="center">
   <b>Enhanced &amp; Stable Baileys Fork for WhatsApp Bots – 2025 Edition</b><br/>
