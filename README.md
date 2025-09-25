@@ -5,10 +5,6 @@
 
 <p align="center">
   <b>Enhanced &amp; Stable Baileys Fork for WhatsApp Bots – 2025 Edition</b><br/>
-  <a href="https://github.com/WhiskeySockets/Baileys">Original Baileys</a> •
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#credits">Credits</a>
 </p>
 
 ---
@@ -29,7 +25,8 @@ Fokus utama:
 - Full support untuk **Multi-Device** & **QR/Pairing Code Login**  
 - Built-in **Session Store** (file & database ready)  
 - Event emitter yang lebih efisien untuk high-traffic bot  
-- TypeScript & CommonJS ready  
+- TypeScript & CommonJS ready
+- Custom Pairing Code Login
 
 ---
 
