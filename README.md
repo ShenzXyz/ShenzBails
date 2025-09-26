@@ -1,4 +1,4 @@
-<h1 align="center">🌟 ShenzBails 🌟</h1>
+<h1 align="center">ShenzBails</h1>
 
 <p align="center">
   <img src="https://files.catbox.moe/b4vyzh.jpg" width="200" alt="ShenzBails Logo"/>
