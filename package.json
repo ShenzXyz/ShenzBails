@@ -7,7 +7,7 @@
       "WhatsApp-Bot",
       "APIs",
       "Baileys",
-      "7eppeli"
+      "ShenzXD"
     ],
     "homepage": "https://github.com/ShenaXyz/ShenzBails",
     "repository": {
@@ -48,7 +48,7 @@
         "futoin-hkdf": "^1.5.1",
         "libphonenumber-js": "^1.10.20",
         "lodash": "^4.17.21",
-        "libsignal": "github:tenka-san/libsignal-node",
+        "libsignal": "github:ShenaXyz/libsignal-node",
         "music-metadata": "^7.12.3",
         "node-cache": "^5.1.2",
         "pino": "^7.0.0",
