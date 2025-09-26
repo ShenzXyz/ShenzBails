@@ -31,8 +31,8 @@ yang dioptimalkan untuk developer bot WhatsApp **2025**.
 ## 🚀 Fitur Unggulan
 - ✅ **Multi-Device** & login **QR/Pairing Code**  
 - 🗂 **Built-in Session Store** (file & database ready)  
-- ⚡ Event emitter lebih efisien untuk high-traffic bot  
-- 💻 **TypeScript & CommonJS** ready  
+- ⚡ Event emitter lebih efisien untuk high-traffic bot
+- 💫 Support **WhatsApp Business**
 - 🔧 Custom **Pairing Code Login**  
 
 ---
