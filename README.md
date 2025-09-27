@@ -52,5 +52,3 @@ Tambahkan dependensi ini di `package.json`:
 - Yuukey
 - Teddy
 - Erlangga
-- Rxhl
-- Yukina
