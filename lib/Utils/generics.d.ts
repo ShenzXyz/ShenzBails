@@ -90,3 +90,4 @@ export declare const getCodeFromWSError: (error: Error) => number;
 export declare const isWABusinessPlatform: (platform: string) => boolean;
 export declare function trimUndefined(obj: any): any;
 export declare function bytesToCrockford(buffer: Buffer): string;
+export declare function encodeNewsletterMessage(message: proto.IMessage): Uint8Array;
